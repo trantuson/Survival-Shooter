@@ -1,0 +1,1350 @@
+fileFormatVersion: 2
+guid: b4ac805b94c050444b8fa618c1940d8c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9400195ce7e8b4d85a875f8d31513b
+      internalID: 118831969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6328b56ba6bd77c4bba847f9c2886997
+      internalID: 290679007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10fb81c16cd967428d0c57d44f38e40
+      internalID: 884635809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9928a7cccbf04bf46b0ec1bd56f54d51
+      internalID: 862108306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb762453fca87e47b304c0334a3d5ac
+      internalID: -1738296122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec86a38f8c4f4d4b97cfbe74cca739a
+      internalID: 1244343103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c9a562d6e41c4ea6f8ef476d398d5
+      internalID: -926968433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886f47f07ac9f3a43807de7d2101e959
+      internalID: 1562869266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_51
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427a6eb40ddd3d6479f01faa51d6e3bf
+      internalID: -767227950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309cef644cd23a349ae91a6ebb19d265
+      internalID: -809893907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9d205957129f3419b82c36e4f8e718
+      internalID: -1020190386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc9ee2c43e9a5441bdd013854822197
+      internalID: 743014465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce8f13135609b6448d0e0827fad6293
+      internalID: 1356649331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b1395b35cf3844a710fe8dc74eb5f
+      internalID: 842990087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f8e52cab3fca4fb24026a9e5651e0
+      internalID: 119992060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_131
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d224aa2ede4b4ea4993d3b00e3cfc49a
+      internalID: -776514473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec2e38947cb964181e327fc2ee0311
+      internalID: -1625459363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc0623f186839e47959b2f3d915a77d
+      internalID: -733448366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_134
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09251e3a99e6e449c93c668f7c7687
+      internalID: 1114727867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_225
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f2115dd293ca4bb939872acf1bbfa
+      internalID: -1147931288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_226
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f6d68c4cec22746bd088cd23713e57
+      internalID: -1228162340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_227
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33deaad497c466149b3e17b447d25a34
+      internalID: 597367959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_228
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c18f3077ff3a4184b5b99c40936d3
+      internalID: -1734256524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_234
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27816bf0c021e44abb612e8220ed32
+      internalID: 318941457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_235
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5db54d7a946444880f6c88217da90
+      internalID: 1633168453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_236
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0d7fe991ed0d949bdbd1de61fd02c8
+      internalID: 1811395720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_237
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58adb99777b38418eb552c32caa0c5
+      internalID: 16789677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_238
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e573411ad198a44ab8971c9b84aaa1e
+      internalID: 1425219126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_239
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4961a7fac2e574185920ba75981b90
+      internalID: 2029983807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_300
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f266a849df1004fb14d5c2a69e533b
+      internalID: 1149038222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_301
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2057dcd8ff1bc954fa3f31e814e895a4
+      internalID: -919729801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_302
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc256837e144af458171d4cfa964cae
+      internalID: 1210471022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_303
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfb6eea148424b4fa199d416d52dc63
+      internalID: 2114754853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_309
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 136
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8656631f7ae0e4645b5fbfb9fe141717
+      internalID: -712482575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_310
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131b2b755bfde94e91ce6b332fd2869
+      internalID: 971162777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_334
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 135
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ac0fc7196bf8f4aaf2766e3a4795bd
+      internalID: 1741183642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_335
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34f406e9479ad642ba012d0a9cab978
+      internalID: -1186148339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_336
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd747a9d2d05a3945933fe62e23f9605
+      internalID: -892620830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_337
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 17
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0c0ad46f06fb042afa1bd530c86fb7
+      internalID: -1979838642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire Effect and Bullet 16x16_338
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2337be63c7806443b7a5051fb01a2bc
+      internalID: -1868279742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fire Effect and Bullet 16x16_0: 118831969
+      Fire Effect and Bullet 16x16_1: 290679007
+      Fire Effect and Bullet 16x16_10: 1061112077
+      Fire Effect and Bullet 16x16_100: 705466316
+      Fire Effect and Bullet 16x16_101: 1981577092
+      Fire Effect and Bullet 16x16_102: -175293207
+      Fire Effect and Bullet 16x16_103: -576549623
+      Fire Effect and Bullet 16x16_104: 631803975
+      Fire Effect and Bullet 16x16_105: 1708576547
+      Fire Effect and Bullet 16x16_106: -1934376683
+      Fire Effect and Bullet 16x16_107: 1079746065
+      Fire Effect and Bullet 16x16_108: -393163484
+      Fire Effect and Bullet 16x16_109: 1245230253
+      Fire Effect and Bullet 16x16_11: 857537110
+      Fire Effect and Bullet 16x16_110: 1680080672
+      Fire Effect and Bullet 16x16_111: -374511204
+      Fire Effect and Bullet 16x16_112: 215984878
+      Fire Effect and Bullet 16x16_113: 1057592836
+      Fire Effect and Bullet 16x16_114: -1140253595
+      Fire Effect and Bullet 16x16_115: -2071519892
+      Fire Effect and Bullet 16x16_116: -853146356
+      Fire Effect and Bullet 16x16_117: -159643560
+      Fire Effect and Bullet 16x16_118: 1474050317
+      Fire Effect and Bullet 16x16_119: 1215327108
+      Fire Effect and Bullet 16x16_12: 1656483724
+      Fire Effect and Bullet 16x16_120: 469868839
+      Fire Effect and Bullet 16x16_121: 1029591964
+      Fire Effect and Bullet 16x16_122: 1086196812
+      Fire Effect and Bullet 16x16_123: 1659053267
+      Fire Effect and Bullet 16x16_124: 1006079104
+      Fire Effect and Bullet 16x16_125: 1739701824
+      Fire Effect and Bullet 16x16_126: -445061918
+      Fire Effect and Bullet 16x16_127: 364917928
+      Fire Effect and Bullet 16x16_128: 1492930504
+      Fire Effect and Bullet 16x16_129: -1432177990
+      Fire Effect and Bullet 16x16_13: -1447820614
+      Fire Effect and Bullet 16x16_130: 1957642588
+      Fire Effect and Bullet 16x16_131: -776514473
+      Fire Effect and Bullet 16x16_132: -1625459363
+      Fire Effect and Bullet 16x16_133: -733448366
+      Fire Effect and Bullet 16x16_134: 1114727867
+      Fire Effect and Bullet 16x16_135: 1537893233
+      Fire Effect and Bullet 16x16_136: -1094511673
+      Fire Effect and Bullet 16x16_137: -65219308
+      Fire Effect and Bullet 16x16_138: -2041349729
+      Fire Effect and Bullet 16x16_139: 28851867
+      Fire Effect and Bullet 16x16_14: -2123357592
+      Fire Effect and Bullet 16x16_140: -197135539
+      Fire Effect and Bullet 16x16_141: -977090380
+      Fire Effect and Bullet 16x16_142: -739822657
+      Fire Effect and Bullet 16x16_143: -75094365
+      Fire Effect and Bullet 16x16_144: 1630954295
+      Fire Effect and Bullet 16x16_145: 1442281083
+      Fire Effect and Bullet 16x16_146: 688232402
+      Fire Effect and Bullet 16x16_147: 2140595615
+      Fire Effect and Bullet 16x16_148: -2038898005
+      Fire Effect and Bullet 16x16_149: 558817379
+      Fire Effect and Bullet 16x16_15: 1131224542
+      Fire Effect and Bullet 16x16_150: 1881947646
+      Fire Effect and Bullet 16x16_151: 2099359402
+      Fire Effect and Bullet 16x16_152: 489988712
+      Fire Effect and Bullet 16x16_153: -564322270
+      Fire Effect and Bullet 16x16_154: -1739439709
+      Fire Effect and Bullet 16x16_155: -162953847
+      Fire Effect and Bullet 16x16_156: -1372016854
+      Fire Effect and Bullet 16x16_157: -1655718098
+      Fire Effect and Bullet 16x16_158: 1912739848
+      Fire Effect and Bullet 16x16_159: -757312268
+      Fire Effect and Bullet 16x16_16: 1176067361
+      Fire Effect and Bullet 16x16_160: 887930685
+      Fire Effect and Bullet 16x16_161: -1937263123
+      Fire Effect and Bullet 16x16_162: 736028532
+      Fire Effect and Bullet 16x16_163: 405394750
+      Fire Effect and Bullet 16x16_164: -1977069986
+      Fire Effect and Bullet 16x16_165: 1359910463
+      Fire Effect and Bullet 16x16_166: 1543045431
+      Fire Effect and Bullet 16x16_167: -368139222
+      Fire Effect and Bullet 16x16_168: 67289727
+      Fire Effect and Bullet 16x16_169: 1406180471
+      Fire Effect and Bullet 16x16_17: 610131759
+      Fire Effect and Bullet 16x16_170: 1133554312
+      Fire Effect and Bullet 16x16_171: 1443293099
+      Fire Effect and Bullet 16x16_172: 948365809
+      Fire Effect and Bullet 16x16_173: -492706973
+      Fire Effect and Bullet 16x16_174: 1730735064
+      Fire Effect and Bullet 16x16_175: 1416642387
+      Fire Effect and Bullet 16x16_176: -1956686547
+      Fire Effect and Bullet 16x16_177: 1607545410
+      Fire Effect and Bullet 16x16_178: 1996847142
+      Fire Effect and Bullet 16x16_179: -536514955
+      Fire Effect and Bullet 16x16_18: -262277254
+      Fire Effect and Bullet 16x16_180: -691517642
+      Fire Effect and Bullet 16x16_181: 1554091964
+      Fire Effect and Bullet 16x16_182: -514036456
+      Fire Effect and Bullet 16x16_183: -278514600
+      Fire Effect and Bullet 16x16_184: -2058860741
+      Fire Effect and Bullet 16x16_185: 1106154055
+      Fire Effect and Bullet 16x16_186: 1548682283
+      Fire Effect and Bullet 16x16_187: 2027620079
+      Fire Effect and Bullet 16x16_188: -814302245
+      Fire Effect and Bullet 16x16_189: -1702222062
+      Fire Effect and Bullet 16x16_19: -786690086
+      Fire Effect and Bullet 16x16_190: -1759024114
+      Fire Effect and Bullet 16x16_191: 88455555
+      Fire Effect and Bullet 16x16_192: -386990392
+      Fire Effect and Bullet 16x16_193: -1847012464
+      Fire Effect and Bullet 16x16_194: -713124764
+      Fire Effect and Bullet 16x16_195: 33713526
+      Fire Effect and Bullet 16x16_196: -1077366985
+      Fire Effect and Bullet 16x16_197: -247828010
+      Fire Effect and Bullet 16x16_198: 1456687224
+      Fire Effect and Bullet 16x16_199: -1353637899
+      Fire Effect and Bullet 16x16_2: 884635809
+      Fire Effect and Bullet 16x16_20: 2069657236
+      Fire Effect and Bullet 16x16_200: -385913075
+      Fire Effect and Bullet 16x16_201: 141231870
+      Fire Effect and Bullet 16x16_202: -808036572
+      Fire Effect and Bullet 16x16_203: 508063478
+      Fire Effect and Bullet 16x16_204: -1065519908
+      Fire Effect and Bullet 16x16_205: -100681894
+      Fire Effect and Bullet 16x16_206: -1681283688
+      Fire Effect and Bullet 16x16_207: 223682233
+      Fire Effect and Bullet 16x16_208: 1892775758
+      Fire Effect and Bullet 16x16_209: 140227007
+      Fire Effect and Bullet 16x16_21: -1892279108
+      Fire Effect and Bullet 16x16_210: -726457366
+      Fire Effect and Bullet 16x16_211: -1515281997
+      Fire Effect and Bullet 16x16_212: 1761063424
+      Fire Effect and Bullet 16x16_213: -394077802
+      Fire Effect and Bullet 16x16_214: -202307727
+      Fire Effect and Bullet 16x16_215: -1539329953
+      Fire Effect and Bullet 16x16_216: 1928534249
+      Fire Effect and Bullet 16x16_217: -176982568
+      Fire Effect and Bullet 16x16_218: -173683538
+      Fire Effect and Bullet 16x16_219: -2034298201
+      Fire Effect and Bullet 16x16_22: 1979286836
+      Fire Effect and Bullet 16x16_220: 335407491
+      Fire Effect and Bullet 16x16_221: 542058640
+      Fire Effect and Bullet 16x16_222: 1586775009
+      Fire Effect and Bullet 16x16_223: -276798023
+      Fire Effect and Bullet 16x16_224: 1829615950
+      Fire Effect and Bullet 16x16_225: -1147931288
+      Fire Effect and Bullet 16x16_226: -1228162340
+      Fire Effect and Bullet 16x16_227: 597367959
+      Fire Effect and Bullet 16x16_228: -1734256524
+      Fire Effect and Bullet 16x16_229: -1953927318
+      Fire Effect and Bullet 16x16_23: -23500026
+      Fire Effect and Bullet 16x16_230: 11970709
+      Fire Effect and Bullet 16x16_231: 268895957
+      Fire Effect and Bullet 16x16_232: -321218615
+      Fire Effect and Bullet 16x16_233: 31696460
+      Fire Effect and Bullet 16x16_234: 318941457
+      Fire Effect and Bullet 16x16_235: 1633168453
+      Fire Effect and Bullet 16x16_236: 1811395720
+      Fire Effect and Bullet 16x16_237: 16789677
+      Fire Effect and Bullet 16x16_238: 1425219126
+      Fire Effect and Bullet 16x16_239: 2029983807
+      Fire Effect and Bullet 16x16_24: -1821088590
+      Fire Effect and Bullet 16x16_240: 1248058529
+      Fire Effect and Bullet 16x16_241: -1232324675
+      Fire Effect and Bullet 16x16_242: 179345536
+      Fire Effect and Bullet 16x16_243: 671748700
+      Fire Effect and Bullet 16x16_244: -994639895
+      Fire Effect and Bullet 16x16_245: 2137626708
+      Fire Effect and Bullet 16x16_246: -434596537
+      Fire Effect and Bullet 16x16_247: 561413723
+      Fire Effect and Bullet 16x16_248: -588198823
+      Fire Effect and Bullet 16x16_249: 1163901785
+      Fire Effect and Bullet 16x16_25: -940866126
+      Fire Effect and Bullet 16x16_250: 1042234425
+      Fire Effect and Bullet 16x16_251: 1197611927
+      Fire Effect and Bullet 16x16_252: 57648523
+      Fire Effect and Bullet 16x16_253: 1080588571
+      Fire Effect and Bullet 16x16_254: 319106365
+      Fire Effect and Bullet 16x16_255: -1026292552
+      Fire Effect and Bullet 16x16_256: 1191927855
+      Fire Effect and Bullet 16x16_257: -21170041
+      Fire Effect and Bullet 16x16_258: 1626030441
+      Fire Effect and Bullet 16x16_259: -1217998759
+      Fire Effect and Bullet 16x16_26: -1932770781
+      Fire Effect and Bullet 16x16_260: -900379757
+      Fire Effect and Bullet 16x16_261: -1062894867
+      Fire Effect and Bullet 16x16_262: -996519684
+      Fire Effect and Bullet 16x16_263: -304581176
+      Fire Effect and Bullet 16x16_264: -13081144
+      Fire Effect and Bullet 16x16_265: 2037125538
+      Fire Effect and Bullet 16x16_266: 1567469391
+      Fire Effect and Bullet 16x16_267: 685554288
+      Fire Effect and Bullet 16x16_268: 1649285686
+      Fire Effect and Bullet 16x16_269: -424695315
+      Fire Effect and Bullet 16x16_27: 1445906498
+      Fire Effect and Bullet 16x16_270: -1552343333
+      Fire Effect and Bullet 16x16_271: 1035144230
+      Fire Effect and Bullet 16x16_272: 1024186268
+      Fire Effect and Bullet 16x16_273: -234188860
+      Fire Effect and Bullet 16x16_274: -601886710
+      Fire Effect and Bullet 16x16_275: 1618899155
+      Fire Effect and Bullet 16x16_276: -1702016060
+      Fire Effect and Bullet 16x16_277: 1972320939
+      Fire Effect and Bullet 16x16_278: -835648896
+      Fire Effect and Bullet 16x16_279: 1224968868
+      Fire Effect and Bullet 16x16_28: -136272562
+      Fire Effect and Bullet 16x16_280: -1846995745
+      Fire Effect and Bullet 16x16_281: -1846590152
+      Fire Effect and Bullet 16x16_282: -921390750
+      Fire Effect and Bullet 16x16_283: -896882158
+      Fire Effect and Bullet 16x16_284: 1425028282
+      Fire Effect and Bullet 16x16_285: -1340576822
+      Fire Effect and Bullet 16x16_286: 1507216545
+      Fire Effect and Bullet 16x16_287: 956381624
+      Fire Effect and Bullet 16x16_288: -2134625043
+      Fire Effect and Bullet 16x16_289: 2113280303
+      Fire Effect and Bullet 16x16_29: -1626249032
+      Fire Effect and Bullet 16x16_290: -91168401
+      Fire Effect and Bullet 16x16_291: -980149306
+      Fire Effect and Bullet 16x16_292: -1029888810
+      Fire Effect and Bullet 16x16_293: 1733254499
+      Fire Effect and Bullet 16x16_294: 2084922186
+      Fire Effect and Bullet 16x16_295: -377090597
+      Fire Effect and Bullet 16x16_296: -437489500
+      Fire Effect and Bullet 16x16_297: 1925230148
+      Fire Effect and Bullet 16x16_298: 721783264
+      Fire Effect and Bullet 16x16_299: -529933275
+      Fire Effect and Bullet 16x16_3: -1037988679
+      Fire Effect and Bullet 16x16_30: 862108306
+      Fire Effect and Bullet 16x16_300: 1149038222
+      Fire Effect and Bullet 16x16_301: -919729801
+      Fire Effect and Bullet 16x16_302: 1210471022
+      Fire Effect and Bullet 16x16_303: 2114754853
+      Fire Effect and Bullet 16x16_304: -793506950
+      Fire Effect and Bullet 16x16_305: -1614272215
+      Fire Effect and Bullet 16x16_306: 1013218237
+      Fire Effect and Bullet 16x16_307: -1818445476
+      Fire Effect and Bullet 16x16_308: -168807704
+      Fire Effect and Bullet 16x16_309: -712482575
+      Fire Effect and Bullet 16x16_31: -1738296122
+      Fire Effect and Bullet 16x16_310: 971162777
+      Fire Effect and Bullet 16x16_311: -1604555958
+      Fire Effect and Bullet 16x16_312: 1153882646
+      Fire Effect and Bullet 16x16_313: -124552174
+      Fire Effect and Bullet 16x16_314: -820563811
+      Fire Effect and Bullet 16x16_315: 895660108
+      Fire Effect and Bullet 16x16_316: -1679524171
+      Fire Effect and Bullet 16x16_317: 991797301
+      Fire Effect and Bullet 16x16_318: -1801997454
+      Fire Effect and Bullet 16x16_319: 829234677
+      Fire Effect and Bullet 16x16_32: 1244343103
+      Fire Effect and Bullet 16x16_320: 336173174
+      Fire Effect and Bullet 16x16_321: -1990198806
+      Fire Effect and Bullet 16x16_322: -1352047279
+      Fire Effect and Bullet 16x16_323: 347282012
+      Fire Effect and Bullet 16x16_324: -841607349
+      Fire Effect and Bullet 16x16_325: -1330426460
+      Fire Effect and Bullet 16x16_326: -1913883715
+      Fire Effect and Bullet 16x16_327: 1581747716
+      Fire Effect and Bullet 16x16_328: 261596044
+      Fire Effect and Bullet 16x16_329: -206880583
+      Fire Effect and Bullet 16x16_33: -1713767349
+      Fire Effect and Bullet 16x16_330: -675289341
+      Fire Effect and Bullet 16x16_331: 992499163
+      Fire Effect and Bullet 16x16_332: 271036424
+      Fire Effect and Bullet 16x16_333: 668304083
+      Fire Effect and Bullet 16x16_334: 1741183642
+      Fire Effect and Bullet 16x16_335: -1186148339
+      Fire Effect and Bullet 16x16_336: -892620830
+      Fire Effect and Bullet 16x16_337: -1979838642
+      Fire Effect and Bullet 16x16_338: -1868279742
+      Fire Effect and Bullet 16x16_339: 1854474639
+      Fire Effect and Bullet 16x16_34: 1053146515
+      Fire Effect and Bullet 16x16_340: 1796132685
+      Fire Effect and Bullet 16x16_341: -821876042
+      Fire Effect and Bullet 16x16_342: -1747757587
+      Fire Effect and Bullet 16x16_343: 1422323857
+      Fire Effect and Bullet 16x16_344: -1080322736
+      Fire Effect and Bullet 16x16_345: -1162839909
+      Fire Effect and Bullet 16x16_346: -2063620142
+      Fire Effect and Bullet 16x16_347: 488696801
+      Fire Effect and Bullet 16x16_348: -1845321904
+      Fire Effect and Bullet 16x16_349: 320254023
+      Fire Effect and Bullet 16x16_35: -382832627
+      Fire Effect and Bullet 16x16_350: 45717216
+      Fire Effect and Bullet 16x16_351: -1751283875
+      Fire Effect and Bullet 16x16_352: 1870437963
+      Fire Effect and Bullet 16x16_353: -484965531
+      Fire Effect and Bullet 16x16_354: -869853723
+      Fire Effect and Bullet 16x16_355: 1755512103
+      Fire Effect and Bullet 16x16_356: 448539148
+      Fire Effect and Bullet 16x16_357: 231175182
+      Fire Effect and Bullet 16x16_358: -809947826
+      Fire Effect and Bullet 16x16_359: 50698473
+      Fire Effect and Bullet 16x16_36: 1144188503
+      Fire Effect and Bullet 16x16_360: 848330887
+      Fire Effect and Bullet 16x16_361: -1205923564
+      Fire Effect and Bullet 16x16_362: 1194219756
+      Fire Effect and Bullet 16x16_363: -1051667802
+      Fire Effect and Bullet 16x16_364: 1475095213
+      Fire Effect and Bullet 16x16_365: -158075923
+      Fire Effect and Bullet 16x16_366: -1603051
+      Fire Effect and Bullet 16x16_367: -442768949
+      Fire Effect and Bullet 16x16_368: 743133164
+      Fire Effect and Bullet 16x16_369: 2072968740
+      Fire Effect and Bullet 16x16_37: 650781857
+      Fire Effect and Bullet 16x16_38: 784031836
+      Fire Effect and Bullet 16x16_39: -186411178
+      Fire Effect and Bullet 16x16_4: -2066251077
+      Fire Effect and Bullet 16x16_40: -980258319
+      Fire Effect and Bullet 16x16_41: -764887179
+      Fire Effect and Bullet 16x16_42: -1020077488
+      Fire Effect and Bullet 16x16_43: 462194960
+      Fire Effect and Bullet 16x16_44: 356916522
+      Fire Effect and Bullet 16x16_45: 707545330
+      Fire Effect and Bullet 16x16_46: 2020397789
+      Fire Effect and Bullet 16x16_47: 528242774
+      Fire Effect and Bullet 16x16_48: -1159640313
+      Fire Effect and Bullet 16x16_49: -926968433
+      Fire Effect and Bullet 16x16_5: -414795423
+      Fire Effect and Bullet 16x16_50: 1562869266
+      Fire Effect and Bullet 16x16_51: -767227950
+      Fire Effect and Bullet 16x16_52: -809893907
+      Fire Effect and Bullet 16x16_53: -1020190386
+      Fire Effect and Bullet 16x16_54: -1720667672
+      Fire Effect and Bullet 16x16_55: 1424745693
+      Fire Effect and Bullet 16x16_56: -1738900546
+      Fire Effect and Bullet 16x16_57: -150866788
+      Fire Effect and Bullet 16x16_58: -2020170130
+      Fire Effect and Bullet 16x16_59: 201825307
+      Fire Effect and Bullet 16x16_6: 873489036
+      Fire Effect and Bullet 16x16_60: 1967024578
+      Fire Effect and Bullet 16x16_61: 84287500
+      Fire Effect and Bullet 16x16_62: 1985760666
+      Fire Effect and Bullet 16x16_63: 1863362578
+      Fire Effect and Bullet 16x16_64: -543640194
+      Fire Effect and Bullet 16x16_65: 42225478
+      Fire Effect and Bullet 16x16_66: -1272231387
+      Fire Effect and Bullet 16x16_67: 2102413744
+      Fire Effect and Bullet 16x16_68: 399072753
+      Fire Effect and Bullet 16x16_69: 739337441
+      Fire Effect and Bullet 16x16_7: -105778218
+      Fire Effect and Bullet 16x16_70: -784480800
+      Fire Effect and Bullet 16x16_71: 743014465
+      Fire Effect and Bullet 16x16_72: 1356649331
+      Fire Effect and Bullet 16x16_73: 842990087
+      Fire Effect and Bullet 16x16_74: 119992060
+      Fire Effect and Bullet 16x16_75: -116563681
+      Fire Effect and Bullet 16x16_76: -54161149
+      Fire Effect and Bullet 16x16_77: -1193246964
+      Fire Effect and Bullet 16x16_78: 1286333329
+      Fire Effect and Bullet 16x16_79: -522063828
+      Fire Effect and Bullet 16x16_8: -1295914881
+      Fire Effect and Bullet 16x16_80: 1705856341
+      Fire Effect and Bullet 16x16_81: -1530099614
+      Fire Effect and Bullet 16x16_82: 434119290
+      Fire Effect and Bullet 16x16_83: -1133742453
+      Fire Effect and Bullet 16x16_84: 180692373
+      Fire Effect and Bullet 16x16_85: -1414677232
+      Fire Effect and Bullet 16x16_86: 802892607
+      Fire Effect and Bullet 16x16_87: 587851790
+      Fire Effect and Bullet 16x16_88: -1622257937
+      Fire Effect and Bullet 16x16_89: 1184153061
+      Fire Effect and Bullet 16x16_9: -1396116832
+      Fire Effect and Bullet 16x16_90: 754160813
+      Fire Effect and Bullet 16x16_91: -637351911
+      Fire Effect and Bullet 16x16_92: 1211953503
+      Fire Effect and Bullet 16x16_93: 1195831682
+      Fire Effect and Bullet 16x16_94: -148039303
+      Fire Effect and Bullet 16x16_95: -2096973934
+      Fire Effect and Bullet 16x16_96: -721486117
+      Fire Effect and Bullet 16x16_97: 1020530294
+      Fire Effect and Bullet 16x16_98: 1188533375
+      Fire Effect and Bullet 16x16_99: 542039624
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

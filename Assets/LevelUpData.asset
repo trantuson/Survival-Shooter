@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 895946eb67c07064b9096c08b244e8c4, type: 3}
+  m_Name: LevelUpData
+  m_EditorClassIdentifier: 
+  levelUpChoices:
+  - level: 1
+    choices:
+    - icon: {fileID: 21300000, guid: d0b6b3341fc6443439c829e0d78efbf5, type: 3}
+      description: "T\u0103ng (5) m\xE1u"
+      statType: 0
+      amount: 5
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 047ea4a8aafa6ab4e8ff2c410d20e026, type: 3}
+      description: "T\u0103ng (2) t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      statType: 2
+      amount: 0.2
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 7fbe7940d18c096479d8c0247a8f18a3, type: 3}
+      description: "T\u0103ng (5%) t\u1ED1c \u0111\u1ED9 \u0111\xE1nh"
+      statType: 3
+      amount: -0.1
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 98c7eb6e79f4ed548af4b48b1a8aade9, type: 3}
+      description: "T\u0103ng (20%) s\u1EE9c m\u1EA1nh"
+      statType: 1
+      amount: 2
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 96cdb63311e14c44bb23e95afcb4e131, type: 3}
+      description: "Th\xEAm s\xFAng"
+      statType: 4
+      amount: 0
+      modifiers: []
+  - level: 2
+    choices:
+    - icon: {fileID: 21300000, guid: 3ff81270c365f7b4284579b98d079ce3, type: 3}
+      description: "C\u01B0\u1EDDng h\xF3a v\u0169 kh\xED"
+      statType: 5
+      amount: 1
+      modifiers:
+      - statType: 1
+        amount: 3
+    - icon: {fileID: 21300000, guid: 3032f754f6d154f469f10a83a6b2e9cb, type: 3}
+      description: "T\u0103ng (30%) t\u1ED1c \u0111\u1ED9 ch\u1EA1y"
+      statType: 2
+      amount: 0.3
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 7fbe7940d18c096479d8c0247a8f18a3, type: 3}
+      description: "T\u0103ng (30%) t\u1ED1c \u0111\u1ED9 \u0111\xE1nh"
+      statType: 3
+      amount: -0.1
+      modifiers: []
+  - level: 3
+    choices:
+    - icon: {fileID: 21300000, guid: aff9d499299ecd748be8bdcd3ce385dc, type: 3}
+      description: "Th\xEAm s\xFAng"
+      statType: 4
+      amount: 0
+      modifiers: []
+    - icon: {fileID: 1741183642, guid: b4ac805b94c050444b8fa618c1940d8c, type: 3}
+      description: "M\u1EDF kh\xF3a Skill"
+      statType: 6
+      amount: 0
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 7fbe7940d18c096479d8c0247a8f18a3, type: 3}
+      description: "T\u0103ng (30%) t\u1ED1c \u0111\u1ED9 \u0111\xE1nh"
+      statType: 3
+      amount: -0.1
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 98c7eb6e79f4ed548af4b48b1a8aade9, type: 3}
+      description: "T\u0103ng (30%) damage"
+      statType: 1
+      amount: 3
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 9b7d3e68800599b4f97d41891e06808b, type: 3}
+      description: 6
+      statType: 0
+      amount: 6
+      modifiers: []
+  - level: 4
+    choices:
+    - icon: {fileID: 21300000, guid: 047ea4a8aafa6ab4e8ff2c410d20e026, type: 3}
+      description: "T\u0103ng (30%) t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      statType: 2
+      amount: 0.3
+      modifiers: []
+    - icon: {fileID: 1741183642, guid: b4ac805b94c050444b8fa618c1940d8c, type: 3}
+      description: "M\u1EDF kh\xF3a Skill"
+      statType: 6
+      amount: 0
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 7fbe7940d18c096479d8c0247a8f18a3, type: 3}
+      description: "T\u0103ng (50%) t\u1ED1c \u0111\u1ED9 \u0111\xE1nh"
+      statType: 3
+      amount: 1.3
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 98c7eb6e79f4ed548af4b48b1a8aade9, type: 3}
+      description: "T\u0103ng (30%) damage"
+      statType: 1
+      amount: 3
+      modifiers: []
+    - icon: {fileID: 21300000, guid: d0b6b3341fc6443439c829e0d78efbf5, type: 3}
+      description: "T\u0103ng (11) m\xE1u"
+      statType: 0
+      amount: 11
+      modifiers: []
+  - level: 5
+    choices:
+    - icon: {fileID: 21300000, guid: 047ea4a8aafa6ab4e8ff2c410d20e026, type: 3}
+      description: "T\u0103ng (30%) t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      statType: 2
+      amount: 0.3
+      modifiers: []
+    - icon: {fileID: 1741183642, guid: b4ac805b94c050444b8fa618c1940d8c, type: 3}
+      description: "M\u1EDF kh\xF3a Skill"
+      statType: 6
+      amount: 0
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 7fbe7940d18c096479d8c0247a8f18a3, type: 3}
+      description: "T\u0103ng (50%) t\u1ED1c \u0111\u1ED9 \u0111\xE1nh"
+      statType: 3
+      amount: -0.1
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 98c7eb6e79f4ed548af4b48b1a8aade9, type: 3}
+      description: "T\u0103ng (30%) damage"
+      statType: 1
+      amount: 3
+      modifiers: []
+    - icon: {fileID: 21300000, guid: d0b6b3341fc6443439c829e0d78efbf5, type: 3}
+      description: "T\u0103ng (11) m\xE1u"
+      statType: 0
+      amount: 11
+      modifiers: []
+  - level: 6
+    choices:
+    - icon: {fileID: 21300000, guid: 047ea4a8aafa6ab4e8ff2c410d20e026, type: 3}
+      description: "T\u0103ng (30%) t\u1ED1c \u0111\u1ED9 di chuy\u1EC3n"
+      statType: 2
+      amount: 0.3
+      modifiers: []
+    - icon: {fileID: 1741183642, guid: b4ac805b94c050444b8fa618c1940d8c, type: 3}
+      description: "M\u1EDF kh\xF3a Skill"
+      statType: 6
+      amount: 0
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 7fbe7940d18c096479d8c0247a8f18a3, type: 3}
+      description: "T\u0103ng (50%) t\u1ED1c \u0111\u1ED9 \u0111\xE1nh"
+      statType: 3
+      amount: -0.1
+      modifiers: []
+    - icon: {fileID: 21300000, guid: 98c7eb6e79f4ed548af4b48b1a8aade9, type: 3}
+      description: "T\u0103ng (30%) damage"
+      statType: 1
+      amount: 3
+      modifiers: []
+    - icon: {fileID: 21300000, guid: d0b6b3341fc6443439c829e0d78efbf5, type: 3}
+      description: "T\u0103ng (11) m\xE1u"
+      statType: 0
+      amount: 11
+      modifiers: []
