@@ -209,7 +209,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eedb15cd125eef440a99d5aeea454192, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 150
+  health: 200
   currentHealth: 0
   expPrefabs: {fileID: 0}
   isDie: 0

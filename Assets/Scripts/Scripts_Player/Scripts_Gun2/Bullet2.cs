@@ -12,6 +12,7 @@ public class Bullet2 : MonoBehaviour
     {
         this.target = target;
         this.dame = dame;
+
     }
     private void Update()
     {
@@ -21,21 +22,17 @@ public class Bullet2 : MonoBehaviour
     {
         if (target == null)
         {
-            Destroy(gameObject);
+            gameObject.SetActive(false);
+            return;
+        }
+        Collider2D collider = target.GetComponent<Collider2D>();
+        if (collider == null || !collider.enabled)
+        {
+            gameObject.SetActive(false);
             return;
         }
         Vector3 direction = (target.position - transform.position).normalized;
         transform.position += direction * speed * Time.deltaTime;
-    }
-    private void OnEnable()
-    {
-        CancelInvoke();
-        Invoke(nameof(DisableSelf), 1f);
-    }
-
-    private void DisableSelf()
-    {
-        gameObject.SetActive(false);
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {

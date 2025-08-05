@@ -36,7 +36,6 @@ public class HeathManager : MonoBehaviour
             Die();
         }
     }
-
     private void Die()
     {
         GetComponent<Collider2D>().enabled = false;
@@ -49,7 +48,7 @@ public class HeathManager : MonoBehaviour
     private IEnumerator DestroyAfterDieAnimation()
     {
         // Giả sử animation chết dài 1 giây
-        yield return new WaitForSeconds(0.8f);
+        yield return new WaitForSeconds(0.5f); // 0.8f
         gameObject.SetActive(false);
     }
 }

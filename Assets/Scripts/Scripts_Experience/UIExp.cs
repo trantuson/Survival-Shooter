@@ -13,7 +13,6 @@ public class UIExp : MonoBehaviour
             {
                 expBar.ExpPlus(2);
             }
-
             Destroy(gameObject);
         }
     }

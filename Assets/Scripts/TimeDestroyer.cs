@@ -8,6 +8,6 @@ public class TimeDestroyer : MonoBehaviour
 
     private void Start()
     {
-        Destroy(gameObject,time);
+        Destroy(gameObject, time);
     }
 }

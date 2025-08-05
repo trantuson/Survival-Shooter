@@ -49,5 +49,4 @@ public class AutoCollectExp : MonoBehaviour
             transform.position = Vector2.MoveTowards(transform.position, player.position, moveSpeed * Time.deltaTime);
         }
     }
-
 }

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerSkill : MonoBehaviour
 {
-    [SerializeField] private GameObject skillPrefab;
+    //[SerializeField] private GameObject skillPrefab;
     [SerializeField] private float speed = 5f;
     [SerializeField] private float spawnInterval = 1f;
     [SerializeField] private float offset = 0.3f; // khoảng cách spawn skill quanh player
@@ -55,7 +55,8 @@ public class PlayerSkill : MonoBehaviour
             float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
             Quaternion rotation = Quaternion.Euler(0f, 0f, angle);
 
-            GameObject instance = Instantiate(skillPrefab, spawnPos, rotation);
+            string skillTag = "Skill";
+            GameObject instance = ObjectPooler.Instance.SpawnFromPool(skillTag, spawnPos, rotation);
             instance.GetComponent<Rigidbody2D>().velocity = dir * speed;
 
             SkillDame skillDame = instance.GetComponent<SkillDame>();
